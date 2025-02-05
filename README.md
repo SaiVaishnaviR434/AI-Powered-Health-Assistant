@@ -13,7 +13,6 @@ Streamlit
 CSS 
 📌 Installation
 1️⃣ Clone this repository:
-git clone https://github.com/your-username/ai-health-assistant.git
 cd ai-health-assistant
 2️⃣ Install dependencies:
 pip install streamlit, NLTK, PyTorch, Transformers
